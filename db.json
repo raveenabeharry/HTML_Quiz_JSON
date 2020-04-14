@@ -16,6 +16,7 @@
 
    {
      "id":2,
+     "question_type": "Fill In",
      "question": "What is the correct HTML element for the largest heading?",
      "correct_answer": "<h1>",
      "explanation:": "The <h1> tag is the first header tag visible on a page and is usually used for the title of a page or post, hence it having the largest size of all headings."
