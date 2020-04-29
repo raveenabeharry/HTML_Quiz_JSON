@@ -210,7 +210,7 @@
 
    {
     "id":18,
-    "question_type": "Image",
+    "question_type": "Multiple Choice",
     "question": "The Hex color code #FFFFFF corresponds to which color?",
     "options": {
       "optiona": "white",
