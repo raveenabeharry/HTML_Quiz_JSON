@@ -210,14 +210,15 @@
    {
     "id":18,
     "question_type": "Image",
-    "question": "The Hex color code #FFFFFF corresponds to which of the following colors?",
+    "question": "The Hex color code #FFFFFF corresponds to which color?",
     "options": {
-      "optiona": "/Users/raveenab/Documents/HTMLSnow.png",
-      "optionb": "/Users/raveenab/Documents/HTMLWhite.png",
-      "optionc": "/Users/raveenab/Documents/HTMLWhiteSmoke.png"
+      "optiona": "white",
+      "optionb": "grey",
+      "optionc": "black",
+      "optiond": "green"
     },
-    "correct_answer": "/Users/raveenab/Documents/HTMLWhite.png",
-    "explanation:": "The Hex color code #000000 corresponds to the color black."
+    "correct_answer": "a. white",
+    "explanation:": "The Hex color code #FFFFFF corresponds to the color white."
    },
 
    {
